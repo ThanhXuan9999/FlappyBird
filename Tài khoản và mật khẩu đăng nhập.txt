@@ -1,0 +1,4 @@
+Tài khoản Admin( Tên đăng nhập: "yen" và Mật khẩu: "123" )
+
+Tài khoản người chơi ( Tên đăng nhập: "xuan" và Mật khẩu: "123" )
+
